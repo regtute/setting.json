@@ -1,0 +1,32 @@
+"workbench.colorCustomizations": {
+        // tab边框
+        // "tab.border":"#f0f0f0",
+        "tab.activeBorder": "#000000",
+        // "editorGroupHeader.tabsBorder": "#f0f0f0",
+        
+        
+
+
+        "scrollbarSlider.background": "#393939",//设置滚动条滑块的背景颜色。
+        "scrollbarSlider.hoverBackground": "#777777",
+        "scrollbarSlider.activeBackground": "#acacac",
+        ///////////////////////////////////////
+
+        // "editorWidget.border": "#f0f0f0",
+        // "editorWidget.resizeBorder": "#f0f0f0",
+        // "panel.border": "#f0f0f0",
+        // "sideBar.border": "#f0f0f0",                //VScode边框颜色
+        // "statusBar.border": "#f0f0f0",
+        // "titleBar.border": "#f0f0f0",
+        // "activityBar.border": "#f0f0f0",
+        // "sideBarSectionHeader.border": "#f0f0f0",
+
+        ////////////////////////////////////////
+        "editor.lineHighlightBorder": "#98bdda",//指示器两边的杠杠        
+        "editorLineNumber.foreground": "#222",//所有行标
+        "editorLineNumber.activeForeground": "#6e6e6e",//选中的行标
+        "editorLineNumber.dimmedForeground": "#111", //最后一个空行的行标
+        ////////////////////////////////
+        // "editorIndentGuide.background": "#222",          //Tab
+        // "editorIndentGuide.activeBackground": "#666",
+        //////////////////////////////////
